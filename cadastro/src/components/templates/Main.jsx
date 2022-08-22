@@ -2,7 +2,7 @@ import "./main.css";
 import React from "react";
 import Header from "./header";
 
-const main = props => {
+const Main = props => {
   return (
     <React.Fragment>
       <Header />
@@ -11,4 +11,4 @@ const main = props => {
   );
 };
 
-export default main;
+export default Main;
